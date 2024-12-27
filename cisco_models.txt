@@ -1,0 +1,146 @@
+Cisco Nexus 9348GC-FXP
+Cisco WS-C2960X-24TS-L
+Cisco C9300L-48P-4X
+Cisco 5500 Wireless Controller
+Cisco WS-C3650-24TS-L
+Cisco SG200-26P
+Cisco OE-512-K9
+Cisco
+Cisco SG350-52P
+Cisco 3925
+Cisco C1200-48P-4G
+Cisco SG500X-48
+Cisco C9200L-24P-4G
+Cisco C1000-48P-4X-L
+Cisco Nexus 93180YC-FX
+Cisco Catalyst 9500 Series
+Cisco Catalyst 9300
+Cisco ASR 920 Series Aggregation Services
+Cisco Firepower 2130
+Cisco 2951
+Cisco Catalyst 3600 series
+Cisco SG200-50
+Cisco ASA 5516
+Cisco C9300L-24P-4X
+Cisco C9800-40
+Cisco CBS250-8PP-D
+Cisco DS-C9148T-K9
+Cisco 1941
+Cisco C9300-48P
+Cisco ASR1001-X
+Cisco AIR-AP2802I-B-K9
+Cisco ISR4321
+Cisco SM3 24GE POE
+Cisco Nexus 5548UP
+Cisco ISR 4321
+Cisco SPA112
+Cisco C9300-24P
+Cisco ISR4351
+Cisco C3560E K9-M
+Cisco ISR4331
+Cisco C9200L-24P-4G-E
+Cisco WS-C3750X-24T-S
+Cisco ISR4431
+Cisco WS-C3650-24TD-S
+Cisco C9120AXI-B
+Cisco C9200L-48P-4X
+Cisco Nexus 9372PX
+Cisco WS-C2960S-48LPS-L
+Cisco Catalyst 1000 1Gbps Stack
+Cisco SG250-50P
+Cisco C9200-24P
+Cisco UCS 6332
+Cisco Firepower 2110-TD
+Cisco C1000-48P-4G-L
+Cisco WS-C3650-48TS-L
+Cisco Nexus 7710
+Cisco WS-C2960X-24TD-L
+Cisco SG200-26
+Cisco ISR 4331
+Cisco C1111-8PLTEEA
+Cisco IP Phone
+Cisco SF220-48P
+Cisco Nexus 6000 series
+Cisco Catalyst 9200L Stackable
+Cisco C9200-48P
+Cisco Nexus 3048
+Cisco Catalyst 891F-K9
+Cisco 5520 series
+Cisco SG250-08HP
+Cisco SPA122
+Cisco WS-C3750G-48PS-S
+Cisco 2811
+Cisco C891F
+Cisco Catalyst 9200L Stackable
+Cisco Firepower 2130
+Cisco 2951
+Cisco Catalyst 9300
+Cisco ISR4431
+Cisco SPA112
+Cisco Firepower 2110-TD
+Cisco C9200L-24P-4G
+Cisco IP Phone
+Cisco Catalyst 1000 1Gbps Stack
+Cisco ASR 920 Series Aggregation Services
+Cisco SG200-26
+Cisco ASR1001-X
+Cisco C1000-48P-4G-L
+Cisco SG200-26P
+Cisco SG250-08HP
+Cisco AIR-AP2802I-B-K9
+Cisco C1200-48P-4G
+Cisco C9300L-48P-4X
+Cisco SPA122
+Cisco WS-C3650-24TD-S
+Cisco C3560E K9-M
+Cisco 5520 series
+Cisco CBS250-8PP-D
+Cisco 5500 Wireless Controller
+Cisco WS-C3750G-48PS-S
+Cisco C1000-48P-4X-L
+Cisco 2811
+Cisco C9300-48P
+Cisco ISR 4331
+Cisco C9200L-48P-4X
+Cisco C9200-48P
+Cisco WS-C2960X-24TS-L
+Cisco ASA 5516
+Cisco DS-C9148T-K9
+Cisco Catalyst 9500 Series
+Cisco WS-C3650-24TS-L
+Cisco SG250-50P
+Cisco SM3 24GE POE
+Cisco ISR 4321
+Cisco SF220-48P
+Cisco C9200L-24P-4G-E
+Cisco Nexus 9348GC-FXP
+Cisco OE-512-K9
+Cisco C1111-8PLTEEA
+Cisco SG350-52P
+Cisco SG200-50
+Cisco C891F
+Cisco Nexus 93180YC-FX
+Cisco ISR4351
+Cisco 1941
+Cisco 3925
+Cisco Nexus 5548UP
+Cisco WS-C2960X-24TD-L
+Cisco
+Cisco ISR4331
+Cisco Nexus 3048
+Cisco SG500X-48
+Cisco WS-C3650-48TS-L
+Cisco C9300-24P
+Cisco C9200-24P
+Cisco WS-C3750X-24T-S
+Cisco Nexus 7710
+Cisco Nexus 9372PX
+Cisco C9800-40
+Cisco Nexus 6000 series
+Cisco ISR4321
+Cisco UCS 6332
+Cisco WS-C2960S-48LPS-L
+Cisco C9120AXI-B
+Cisco Catalyst 3600 series
+Cisco C9300L-24P-4X
+Cisco Catalyst 891F-K9

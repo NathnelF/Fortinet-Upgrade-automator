@@ -1,0 +1,25 @@
+Fortinet
+Fortinet FortiGate 100D
+Fortinet FortiWiFi 30E
+Fortinet FortiGate 80F
+Fortinet FortiGate VM02
+Fortinet FortiGate 70F
+Fortinet FortiGate 61F
+Fortinet FortiGate 200E
+Fortinet FortiGate 101F
+Fortinet FortiGate 60E
+Fortinet FortiGate VMEL
+Fortinet FortiAP FP421E
+Fortinet FortiGate VMSL
+Fortinet FWF61F
+Fortinet FortiGate 40F
+Fortinet FortiSwitch 448D
+Fortinet FortiGate 100E
+Fortinet FGT-60E
+Fortinet FortiGate 501E
+Fortinet FortiGate 30E
+Fortinet FortiGate 81F
+Fortinet FGT 60F
+Fortinet FortiGate 100F
+Fortinet FortiGate 400E
+Fortinet FortiSwitch 1048E
